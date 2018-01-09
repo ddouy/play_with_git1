@@ -24,7 +24,7 @@ I start my morning with a cup of coffee and
 [ny times]: http://www.nytimes.com/
 
 
-![alt text]( /Users/douyao/Desktop/2018_Winter_Quarter/scedule.png "schedule")
+![alt text]( scedule.png "schedule")
 
 I strongly recommend against using any '<blink>' tags.
 
